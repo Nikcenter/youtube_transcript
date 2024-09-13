@@ -41,4 +41,7 @@ pip install youtube_transcript_api
 
 source venv/bin/activate 
 
-Вс
+Запускаємо скріпт:
+
+.\transcript.py ZBoKqrTdtRI ukr
+
