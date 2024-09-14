@@ -20,7 +20,7 @@ pip install virtualenv
 pip install venv
 
 Створюэмо клон проекту:
-git clone 
+git clone https://github.com/Nikcenter/youtube_transcript.git
 
 Перейдіть до папки, де ви хочете створити проект. Використовуйте команду cd для переходу між папками. Наприклад, щоб перейти до папки "Documents\MyProject":
 
